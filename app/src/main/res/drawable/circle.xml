@@ -1,0 +1,12 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Shape sebagai latar belakang -->
+    <item>
+        <shape>
+            <solid android:color="#FFFFFF" />
+            <corners
+                android:radius="@dimen/_400sdp" />
+            <stroke android:color="#e1e1e3" android:width="@dimen/_5sdp" />
+        </shape>
+    </item>
+
+</layer-list>
